@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rhodlib_blog/static/css/main.1b64c23e.chunk.css",
+    "main.js": "/rhodlib_blog/static/js/main.9684348b.chunk.js",
+    "main.js.map": "/rhodlib_blog/static/js/main.9684348b.chunk.js.map",
+    "runtime-main.js": "/rhodlib_blog/static/js/runtime-main.0de46829.js",
+    "runtime-main.js.map": "/rhodlib_blog/static/js/runtime-main.0de46829.js.map",
+    "static/js/2.4a94f5b5.chunk.js": "/rhodlib_blog/static/js/2.4a94f5b5.chunk.js",
+    "static/js/2.4a94f5b5.chunk.js.map": "/rhodlib_blog/static/js/2.4a94f5b5.chunk.js.map",
+    "index.html": "/rhodlib_blog/index.html",
+    "precache-manifest.9ea61a04a03d721fd501732f1e6a463a.js": "/rhodlib_blog/precache-manifest.9ea61a04a03d721fd501732f1e6a463a.js",
+    "service-worker.js": "/rhodlib_blog/service-worker.js",
+    "static/css/main.1b64c23e.chunk.css.map": "/rhodlib_blog/static/css/main.1b64c23e.chunk.css.map",
+    "static/js/2.4a94f5b5.chunk.js.LICENSE.txt": "/rhodlib_blog/static/js/2.4a94f5b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de46829.js",
+    "static/js/2.4a94f5b5.chunk.js",
+    "static/css/main.1b64c23e.chunk.css",
+    "static/js/main.9684348b.chunk.js"
+  ]
+}
