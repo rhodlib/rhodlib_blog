@@ -22,7 +22,9 @@ const Home = () => {
   };
 
   const renderPost = () => {
-    if (posts) {
+    if (posts.length === 0) {
+      return <i class="gg-spinner-two"></i>
+    } else {
       return posts.map((post) => (
         <button
           key={post._id}
