@@ -23,7 +23,7 @@ const Home = () => {
 
   const renderPost = () => {
     if (posts.length === 0) {
-      return <i class="gg-spinner-two"></i>
+      return <i className="gg-spinner-two"></i>
     } else {
       return posts.map((post) => (
         <button
