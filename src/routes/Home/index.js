@@ -10,7 +10,7 @@ const Home = () => {
 
   useEffect(() => {
     getData();
-  }, []);
+  },[]);
 
   const getData = async () => {
     try {
